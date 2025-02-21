@@ -37,7 +37,7 @@
                     <label><input type="checkbox" name="purpose[]" value="e-registration"> E-Registration</label>
                     <label><input type="checkbox" name="purpose[]" value="oec"> OEC</label>
                     <label><input type="checkbox" name="purpose[]" value="information_sheet"> Information Sheet</label>
-                    <label><input type="checkbox" name="purpose[]" value="welfare_and_registration"> Welfare and Registration Division</label>
+                    <label><input type="checkbox" name="purpose[]" value="welfare_registration_and_division"> Welfare and Registration Division</label>
                     <label><input type="checkbox" name="purpose[]" value="direct_hire"> Direct Hire</label>
                     <label><input type="checkbox" name="purpose[]" value="SENA"> SENA</label>
                 </div>
